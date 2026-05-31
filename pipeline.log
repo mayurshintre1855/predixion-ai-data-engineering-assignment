@@ -1,0 +1,7 @@
+2026-06-01 00:05:20,775 - INFO - Pipeline Started
+2026-06-01 00:09:00,327 - INFO - Pipeline Started
+2026-06-01 00:09:00,878 - INFO - Valid Records: 416
+2026-06-01 00:09:00,878 - INFO - Rejected Records: 109
+2026-06-01 00:09:00,948 - INFO - Transformation Completed
+2026-06-01 00:09:00,948 - INFO - Clean Records Saved: 416
+2026-06-01 00:09:00,948 - INFO - Pipeline Finished Successfully
