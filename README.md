@@ -35,6 +35,7 @@ This project helped me understand how ETL pipelines work in real-world data engi
 * pipeline.py → Validates and transforms the data
 * load_to_sqlite.py → Loads data into SQLite database
 * analytics.py → Runs SQL queries and generates reports
+* logger_setup.py → Setup file for logging
 * raw_calls.json → Raw generated data
 * clean_calls.csv → Cleaned data
 * rejected_log.csv → Invalid records
