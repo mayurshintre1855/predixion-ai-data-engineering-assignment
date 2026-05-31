@@ -2,7 +2,7 @@
 
 ## Author
 
-Mayur
+Mayur Netaji Shintre
 
 ## Project Overview
 
